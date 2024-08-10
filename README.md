@@ -24,4 +24,4 @@ It leverages a robust technology stack to provide efficient state management, sc
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/myntrya.git
+   git clone https://github.com/MaheshM7/myntrya.git
